@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Author: Jack Click
+//02/16/25
+using System;
 
 class DadJokeGenerator
 {
