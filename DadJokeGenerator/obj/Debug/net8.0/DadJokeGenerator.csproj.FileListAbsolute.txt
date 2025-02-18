@@ -1,0 +1,15 @@
+/workspaces/Module4CodingChallenge/DadJokeGenerator/obj/Debug/net8.0/DadJokeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Module4CodingChallenge/DadJokeGenerator/obj/Debug/net8.0/DadJokeGenerator.AssemblyInfoInputs.cache
+/workspaces/Module4CodingChallenge/DadJokeGenerator/obj/Debug/net8.0/DadJokeGenerator.AssemblyInfo.cs
+/workspaces/Module4CodingChallenge/DadJokeGenerator/obj/Debug/net8.0/DadJokeGenerator.csproj.CoreCompileInputs.cache
+/workspaces/Module4CodingChallenge/DadJokeGenerator/obj/Debug/net8.0/DadJokeGenerator.sourcelink.json
+/workspaces/Module4CodingChallenge/DadJokeGenerator/bin/Debug/net8.0/DadJokeGenerator
+/workspaces/Module4CodingChallenge/DadJokeGenerator/bin/Debug/net8.0/DadJokeGenerator.deps.json
+/workspaces/Module4CodingChallenge/DadJokeGenerator/bin/Debug/net8.0/DadJokeGenerator.runtimeconfig.json
+/workspaces/Module4CodingChallenge/DadJokeGenerator/bin/Debug/net8.0/DadJokeGenerator.dll
+/workspaces/Module4CodingChallenge/DadJokeGenerator/bin/Debug/net8.0/DadJokeGenerator.pdb
+/workspaces/Module4CodingChallenge/DadJokeGenerator/obj/Debug/net8.0/DadJokeGenerator.dll
+/workspaces/Module4CodingChallenge/DadJokeGenerator/obj/Debug/net8.0/refint/DadJokeGenerator.dll
+/workspaces/Module4CodingChallenge/DadJokeGenerator/obj/Debug/net8.0/DadJokeGenerator.pdb
+/workspaces/Module4CodingChallenge/DadJokeGenerator/obj/Debug/net8.0/DadJokeGenerator.genruntimeconfig.cache
+/workspaces/Module4CodingChallenge/DadJokeGenerator/obj/Debug/net8.0/ref/DadJokeGenerator.dll
